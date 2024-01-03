@@ -1,0 +1,8 @@
+{"MovieListCollection": {
+    "MovieSeenList": [],
+    "ToWatchList": [
+        {"title": "Now you see me"},
+        {"title": "BladeRunner"}
+    ],
+    "FavouritesList": []
+}}

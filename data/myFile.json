@@ -1,0 +1,21 @@
+{"MovieListCollection": {
+    "MovieSeenList": [
+        {
+            "rating": 2,
+            "title": "Cars"
+        },
+        {
+            "rating": 5,
+            "title": "Matrix"
+        },
+        {
+            "rating": 5,
+            "title": "Cars 2"
+        }
+    ],
+    "ToWatchList": [{"title": "Anakin"}],
+    "FavouritesList": [{
+        "rating": 5,
+        "title": "Matrix"
+    }]
+}}

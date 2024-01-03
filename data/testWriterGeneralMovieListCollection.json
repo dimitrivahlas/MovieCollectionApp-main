@@ -1,0 +1,11 @@
+{"MovieListCollection": {
+    "MovieSeenList": [{
+        "rating": 2,
+        "title": "Spiderman"
+    }],
+    "ToWatchList": [{"title": "Up"}],
+    "FavouritesList": [{
+        "rating": 5,
+        "title": "Godfather"
+    }]
+}}
